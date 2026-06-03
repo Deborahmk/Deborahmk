@@ -2,7 +2,7 @@
 
 ### Healthcare Professional Gone Full Tech 🏥➡️💻
 
-I bring 7+ years of real-world healthcare experience into the tech world — combining deep domain knowledge with hands-on skills in software development, data analytics, database design, and AI.
+I bring 7+ years of real-world healthcare experience into the tech world combining deep domain knowledge with hands-on skills in software development, data analytics, database design, and AI.
 
 ---
 
