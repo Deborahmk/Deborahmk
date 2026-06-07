@@ -2,7 +2,7 @@
 
 ### Healthcare Professional Gone Full Tech 🏥➡️💻
 
-I bring 7+ years of real-world healthcare experience into the tech world combining deep domain knowledge with hands-on skills in software development, data analytics, database design, and AI.
+Highly accomplished technology professional with comprehensive expertise spanning software development, machine learning, data engineering, cloud architecture, and cybersecurity. Skilled in designing and implementing scalable systems, AI-driven solutions, and data pipelines using Python, Java, JavaScript, C++, R, and SQL. Recognized for applying rigorous analytical thinking and evidence-based problem-solving to deliver measurable technical outcomes. Currently advancing expertise in artificial intelligence through HarvardX University. Bilingual in English and French. Dedicated to leveraging cutting-edge technology to engineer solutions that drive innovation and lasting impact.
 
 ---
 
