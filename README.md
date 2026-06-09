@@ -77,7 +77,7 @@ Highly accomplished technology professional with comprehensive expertise spannin
 - Covers 20+ symptoms across respiratory, neurological, and gastrointestinal categories
 
 ### 📊 Sarah's Short Cakes  Sales Order System
-> Full SDLC capstone — Software Development + Database + Data Analytics
+> Full SDLC capstone  Software Development + Database + Data Analytics
 - Requirements gathering, ERD, database normalization to 3NF
 - UAT plan with 20+ test cases, UI design, stakeholder presentations
 - Built with Agile/Scrum methodology
