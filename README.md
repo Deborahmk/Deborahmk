@@ -61,10 +61,10 @@ Highly accomplished technology professional with comprehensive expertise spannin
 | Certificate | Issuer | Year |
 |-------------|--------|------|
 | 🏆 Google Data Analytics Professional | Google / Coursera | 2023 |
-| ☁️ CompTIA Cloud Essentials+ (CLO-002) | CompTIA / uCertify | 2025 |
+| ☁️ CompTIA Cloud (CLO-002) | CompTIA / uCertify | 2025 |
 | 🔐 Computer Security Fundamentals | uCertify | 2025 |
-| 🎓 CS50x — Intro to Computer Science | Harvard / edX | In Progress |
-| 🤖 CS50 AI with Python | Harvard / edX | In Progress |
+| 🎓 CS50x  Intro to Computer Science | Harvard / edX | In Progress |
+| 🤖 AI with Python | Harvard / edX | In Progress |
 
 ---
 
@@ -76,16 +76,6 @@ Highly accomplished technology professional with comprehensive expertise spannin
 - Urgency classification engine (Low / Moderate / High)
 - Covers 20+ symptoms across respiratory, neurological, and gastrointestinal categories
 
-### 📊 Sarah's Short Cakes  Sales Order System
-> Full SDLC capstone  Software Development + Database + Data Analytics
-- Requirements gathering, ERD, database normalization to 3NF
-- UAT plan with 20+ test cases, UI design, stakeholder presentations
-- Built with Agile/Scrum methodology
-
-### 🍗 Chicken Nugget Ordering Kiosk App
-> Software development project built with JavaScript
-- Multi-screen app with input validation and dynamic calculations
-- Real-time error handling and logical UI navigation
 
 ---
 
